@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Inciatus Konsul!</h1>
+<h1 align="center">Hi, my name is Inciatus Konsul!</h1>
 <h3 align="center">I'm a begginer programmer from Poland 🇵🇱</h3>
 
 I am passionate about programming (I study a different kind of engineering day-to-day 🔧). So far I haven't posted a repo here, but I hope it will change soon. 
