@@ -3,7 +3,7 @@
 I'm an amateur programmer from Poland 🇵🇱. I haven't post anything here yet, but I hope it will change soon. 
 
 
-Sex: ♂️
+♂️
 
 <!--
 **IncitatusKonsul/IncitatusKonsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
